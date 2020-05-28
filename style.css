@@ -1,0 +1,20 @@
+h2 {
+  color: red;
+  font-size: 3rem
+}
+
+table{
+  width: 400px;
+}
+th{
+  text-align: left;
+}
+  table,th,td{
+    border:1px soild #000;
+  }
+
+@media (min-width:600px) {
+
+}
+
+}
