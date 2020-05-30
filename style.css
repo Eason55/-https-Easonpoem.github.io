@@ -13,8 +13,24 @@ th{
     border:1px soild #000;
   }
 
+p{
+  color: green
+  font-family:'Arvo',serif;
+  font-size: 1rem
+  font-weight:400;
+  line-height:1.75;
+  margin-bottom:2em;
+}
+
 @media (min-width:600px) {
-
+  p {
+  font-size: 1.25rem
+}
 }
 
+@media (min-width:600px) {
+p {
+  line-height: : 1.25rem
 }
+}
+
